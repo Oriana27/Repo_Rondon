@@ -1,0 +1,21 @@
+    1  ls
+    2  ls -l
+    3  ls la
+    4  ls -la
+    5  man ls
+    6  pwd
+    7  whoami
+    8  echo "hola"
+    9  echo HOME 
+   10  echo $HOME
+   11  ls
+   12  cat README 
+   13  cd repogit/
+   14  ls
+   15  git clone [200~https://github.com/Oriana27/Repo_Rondon.git~
+   16  ls
+   17  git clone https://github.com/Oriana27/Repo_Rondon.git
+   18  cd Repo_Rondon/
+   19  ls
+   20  history
+   21  history > Hitorial.txt
